@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%"height="233" style="object-fit: cover;" src="BiliBili@noraly.png" />
+  <img width="33%" height="520" src="BiliBili@noraly.png" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&size=35&pause=100&width=635&lines=Hello%2C+I'm+CrKcel!+)](https://crkcel.com)
